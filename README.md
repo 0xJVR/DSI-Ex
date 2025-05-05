@@ -2,22 +2,24 @@
 
 --------
 
-## Version Actualizada Grupos 3,4,5
-
-### Gruppo 3:
-
-https://docs.google.com/spreadsheets/d/1XBmGqFNHAswCDr7Uv-JPxOhLoxasAo3WGtvGuYXPx7M
-
-https://0xjvr.github.io/DSI-Ex/V2
+## Versión Actualizada Grupos 3,4,5
 
 ### Grupo 4 [ORIGINAL]:
 
-https://docs.google.com/spreadsheets/d/1LdXrWXP6eBeMKV5wawBkaXHYpPKWux9UM8Im2MbGzho
+[Panel Admin](https://docs.google.com/spreadsheets/d/1LdXrWXP6eBeMKV5wawBkaXHYpPKWux9UM8Im2MbGzho)
 
-https://0xjvr.github.io/DSI-Ex/
+[Formulario](https://0xjvr.github.io/DSI-Ex/)
 
-### Grupo 5:
+### Grupo 3 [IMPORTADO]:
 
-https://docs.google.com/spreadsheets/d/1qTSUPplyyI6UKwXO8jVTckWFrwGDrXTKzAFccw8Bop8
+[Panel Admin](https://docs.google.com/spreadsheets/d/1XBmGqFNHAswCDr7Uv-JPxOhLoxasAo3WGtvGuYXPx7M)
 
-https://0xjvr.github.io/DSI-Ex/V3
+[Formulario](https://0xjvr.github.io/DSI-Ex/V2)
+
+
+
+### Grupo 5 [IMPORTADO]:
+
+[Panel Admin](https://docs.google.com/spreadsheets/d/1qTSUPplyyI6UKwXO8jVTckWFrwGDrXTKzAFccw8Bop8)
+
+[Formulario](https://0xjvr.github.io/DSI-Ex/V3)
